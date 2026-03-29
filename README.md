@@ -37,6 +37,7 @@ Password_Generator/
 - This tool will not work unless macros are enabled.
 
 
+
 【日本向け説明】
 パスワード生成ツール（VBA）
 
