@@ -37,9 +37,9 @@ Password_Generator/
 - This tool is intended for personal use only.
 - You are solely responsible for managing your passwords.
 - This tool will not work unless macros are enabled.
-
-
-
+---
+---
+---
 # 【日本向け説明】
 パスワード生成ツール（VBA）
 
