@@ -21,10 +21,10 @@ Password_Generator/
 ```
 
 ## How to Use
-(1). Open “Password_Generator.xlsm”.
-(2). If an Excel warning appears, click “Enable Content”.
-(3). Click the “パスワード生成” button to generate the password(“パスワード生成” means “password generation” in English).
-(4). Click the “コピー” button to copy the password to the clipboard(“コピー” means “copy” in English).
+1. Open “Password_Generator.xlsm”.
+2. If an Excel warning appears, click “Enable Content”.
+3. Click the “パスワード生成” button to generate the password(“パスワード生成” means “password generation” in English).
+4. Click the “コピー” button to copy the password to the clipboard(“コピー” means “copy” in English).
 
 ## Bonus
 ・　When you generate a password, it will be recorded in the “履歴” sheet(“履歴” means “history” in English).
@@ -62,10 +62,10 @@ Password_Generator/
 ```
 
 ## 使い方
-(1). 「Password_Generator.xlsm」を開く。
-(2). Excel の警告が出た場合は 「コンテンツの有効化」 をクリックする。
-(3). 「パスワード生成」ボタンを押して生成。
-(4). 「コピー」ボタンで、クリップボードにパスワードをコピーする。
+1. 「Password_Generator.xlsm」を開く。
+2. Excel の警告が出た場合は 「コンテンツの有効化」 をクリックする。
+3. 「パスワード生成」ボタンを押して生成。
+4. 「コピー」ボタンで、クリップボードにパスワードをコピーする。
 
 ## おまけ
 ・ パスワードを生成すると、「履歴」シートに生成したパスワードが記録されます。
